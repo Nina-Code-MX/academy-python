@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "Nina Code MX Academy: Python",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+		},
+		"editor.wordWrap": "on",
+		"spellchecker.language": "es_ANY"
+	}
+}
